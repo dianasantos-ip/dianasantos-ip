@@ -2,10 +2,9 @@
 
 Sou Diana
 
-Técnica em informática, estudante de Pedagogia e curso de ensinar tecnologia para crianças e adolecentes.
-Faço parte do projeto Franzininho que incentiva pessoas através da tecnoligia com o faça você mesmo, colocando a mão na massa 
-e soldando muita placa eletrônica. Sou instrutora de cursos online com quase 10k de alunos, onde ensino programação em blocos para crianças, através
-do Scratch, microbit e App Inventor.
+Técnica em informática, estudante de Pedagogia.
+
+Gosto muito ensinar tecnologia para crianças e adolecentes.Faço parte do projeto Franzininho que incentiva pessoas através da tecnoligia com o faça você mesmo, colocando a mão na massa, com oficina de solda placa eletrônica e programação. Sou instrutora de cursos online com quase 10k de alunos sendo de 75 países, onde ensino programação em blocos, através do Scratch, Microbit, App Inventor entre outros.
 
 
 
