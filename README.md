@@ -18,15 +18,15 @@ eee[Inkscape - Criando artes gráficas livremente](https://www.udemy.com/course/
 
 ### Minhas redes
 
-aaa[Linkedin](https://www.linkedin.com/in/dianaipsantos/)
-bbb[facebook](https://www.facebook.com/dianaipsantos/)
-ccc[Instagram](https://www.instagram.com/_dianasantos.ip/)
+- aaa [Linkedin](https://www.linkedin.com/in/dianaipsantos/)
+- bbb[facebook](https://www.facebook.com/dianaipsantos/)
+- ccc[Instagram](https://www.instagram.com/_dianasantos.ip/)
 
 ### Palestras
-aaa[Franzininho - Soldar, programar e compartilhar! - Palco: FLAHWL](https://www.youtube.com/watch?v=mfqrTWb6eCA&t=89s)
-bbb[Girando a Roda](https://www.youtube.com/watch?v=Stx2Mugtyos&t=2976s)
-ccc[Franzininho: Incentivando pessoas na tecnologia e no faça você mesmo](https://www.youtube.com/watch?v=5xdQT40)
-ddd[Crianças hackers: o que são e o que fazem? - CPBSB3](https://www.youtube.com/watch?v=w_dhVenKSx4)
+- aaa[Franzininho - Soldar, programar e compartilhar! - Palco: FLAHWL](https://www.youtube.com/watch?v=mfqrTWb6eCA&t=89s)
+- bbb[Girando a Roda](https://www.youtube.com/watch?v=Stx2Mugtyos&t=2976s)
+-ccc[Franzininho: Incentivando pessoas na tecnologia e no faça você mesmo](https://www.youtube.com/watch?v=5xdQT40)
+- ddd[Crianças hackers: o que são e o que fazem? - CPBSB3](https://www.youtube.com/watch?v=w_dhVenKSx4)
 
 <!--
 **dianasantos-ip/dianasantos-ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
