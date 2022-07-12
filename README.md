@@ -2,7 +2,7 @@
 
 Sou Diana :woman:
 
-Técnica em informática, Instrutora de cursos online e estudante de Pedagogia.
+Técnica em informática, Instrutora de cursos online e Pedagoga.
 
 Gosto muito ensinar tecnologia para crianças e adolecentes.Faço parte do projeto Franzininho que incentiva pessoas através da tecnoligia com o faça você mesmo, colocando a mão na massa, com oficina de solda placa eletrônica e programação. Sou instrutora de cursos online com quase 10k de alunos sendo de 75 países, onde ensino programação em blocos, através do Scratch, Microbit, App Inventor entre outros.
 
