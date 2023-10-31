@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/dianasantos-ip/dianasantos-ip/blob/output/github-contribution-grid-snake.svg)
+
+## Hacktoberfest 2023
+
+[![An image of @dianasantos_ip's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dianasantos_ip)](https://holopin.io/@dianasantos_ip)
